@@ -5,6 +5,7 @@ local password = io.read()
 
 id password == CrctPass then:
     print("Password accepted...")
+    sleep(2)
 
 else:
     print("Password declined...")
