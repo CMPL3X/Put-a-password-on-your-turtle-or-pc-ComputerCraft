@@ -1,6 +1,6 @@
 # Put-a-password-on-your-turtle-or-pc-ComputerCraft
 
-This code is used for locking your pc or turtle on ComputerCraft minecraft modpack.
+This simple code is used for locking your pc or turtle on ComputerCraft minecraft modpack.
 
 Edit the code and put your own Password in.
 
